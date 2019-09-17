@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16826500191",
+    "firebase_url": "https://tg-avaliasus.firebaseio.com",
+    "project_id": "tg-avaliasus",
+    "storage_bucket": "tg-avaliasus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16826500191:android:a4c6f0463f2af8a2",
+        "android_client_info": {
+          "package_name": "br.com.lvbfontes.avaliasus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16826500191-jsc51g35ru6f4tpctdum030amjq70vo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.lvbfontes.avaliasus",
+            "certificate_hash": "88cce4195b589b9e0a9eff0fa06303ab30d28164"
+          }
+        },
+        {
+          "client_id": "16826500191-hkd3u02c18b7du68eg1rgu233drnho5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBLcCvMWngDh_F2B9B2mjiuO3fIUWFYMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16826500191-hkd3u02c18b7du68eg1rgu233drnho5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
